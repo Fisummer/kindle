@@ -1,0 +1,10 @@
+usbnet:
+password
+[root@kindle usbnet]# kindletool info $(cat /proc/usid)
+Device uses the new device ID scheme
+Platform is Wario or newer
+Root PW            fionacb9
+Recovery PW        fionacb93
+
+
+
